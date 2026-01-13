@@ -571,5 +571,5 @@ In this lab, you successfully:
 
 Origin : 
 - [Origin](https://github.com/andre4freelance/GCP-HA-VPN/)
-- [Linkedin post]([https://github.com/andre4freelance/GCP-HA-VPN](https://www.linkedin.com/posts/link-andre-bastian_googlecloud-cloudnetworking-havpn-activity-7416981313884426240-P6J2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD73JlUBty-p-mBfMEW0-O4j0sv-e_PRQvc)/)
-- [Facebook post]
+- [Linkedin post](https://www.linkedin.com/posts/link-andre-bastian_googlecloud-cloudnetworking-havpn-activity-7416981313884426240-P6J2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD73JlUBty-p-mBfMEW0-O4j0sv-e_PRQvc)/)
+- Facebook post
