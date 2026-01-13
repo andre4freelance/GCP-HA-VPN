@@ -567,8 +567,9 @@ In this lab, you successfully:
 - [Cloud Router Overview](https://cloud.google.com/router/docs/concepts/overview)
 - [BGP Best Practices](https://cloud.google.com/router/docs/concepts/best-practices)
 
----
+## Links
 
-## License
-
-This documentation is provided for educational purposes as part of the Google Cloud Skill Boost learning path.
+Origin : 
+- [Origin](https://github.com/andre4freelance/GCP-HA-VPN/)
+- [Linkedin post]([https://github.com/andre4freelance/GCP-HA-VPN](https://www.linkedin.com/posts/link-andre-bastian_googlecloud-cloudnetworking-havpn-activity-7416981313884426240-P6J2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD73JlUBty-p-mBfMEW0-O4j0sv-e_PRQvc)/)
+- [Facebook post]
